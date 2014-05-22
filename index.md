@@ -2,6 +2,6 @@
 layout: default
 ---
 
--aaaaa
--bbbbb
+- aaaaa
+- bbbbb
 
